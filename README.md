@@ -1,2 +1,1 @@
-# Verdiana-Martello
-My personal repository
+# About me
